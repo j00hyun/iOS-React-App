@@ -1,4 +1,4 @@
-React.js x Node.js-express x MySQL
+React.js x Swift x Node.js-express x MySQL
 ==============================
 
 After set up *db-config.json*, you can execute the project.
